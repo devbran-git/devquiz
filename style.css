@@ -116,9 +116,3 @@ h1 {
 .scoreArea button:hover {
     background-color: rgba(0, 0, 0, 0.4);
 }
-
-footer {
-    margin-top: 20px;
-    color: #FFF;
-    font-size: 13px;
-}
